@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1767348798",
-      "filename": "voltage-5.3-dm1q-20260102-1015-UNOFFICIAL.zip",
-      "id": "dcb7ca7360b56d8b5a7fed72bdec1c38404899710f902e15dcafc12bc99fb1f2",
+      "datetime": "1767350835",
+      "filename": "voltage-5.3-dm1q-20260102-1049-UNOFFICIAL.zip",
+      "id": "f2b9167d297285a2d20c12757d5c1a51a91c54d1ec328ca16cadae8753a41b64",
       "romtype": "UNOFFICIAL",
-      "size": "1978623774",
-      "url": "https://github.com/FSaurenbach/VoltageOTA/releases/download/dm1q-20260102/voltage-5.3-dm1q-20260102-1015-UNOFFICIAL.zip",
+      "size": "1978621322",
+      "url": "https://github.com/FSaurenbach/VoltageOTA/releases/download/dm1q-20260102/voltage-5.3-dm1q-20260102-1049-UNOFFICIAL.zip",
       "version": "5.3.1"
     }
   ]
